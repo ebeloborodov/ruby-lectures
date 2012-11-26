@@ -1,7 +1,7 @@
 puts "Enter value for a"
-a=gets
+a = gets
 puts "Enter value for b"
-b=gets
+b = gets
 if a>b
   puts "Chislo #{a} bolshe #{b}"
 elsif a==b
