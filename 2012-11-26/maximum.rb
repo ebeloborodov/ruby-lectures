@@ -8,4 +8,4 @@ elsif a == b
   puts "Chislo #{a} ravno #{b}"
 else
   puts "Chislo #{a} menshe #{b}"
-end 
+end
