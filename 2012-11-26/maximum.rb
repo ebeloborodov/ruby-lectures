@@ -1,7 +1,7 @@
 puts "Enter value for a"
-a = gets
+a = gets.delete("\n")
 puts "Enter value for b"
-b = gets
+b = gets.delete("\n")
 if a > b
   puts "Chislo #{a} bolshe #{b}"
 elsif a == b
